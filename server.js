@@ -9,4 +9,5 @@ client.on("message", message => {
   }
 })
 
-client.login("YOUR TOKEN HERE")
+// Set up your env!
+client.login(process.env.token)
