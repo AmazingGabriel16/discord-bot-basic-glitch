@@ -5,7 +5,8 @@ Replace the name in the server.js in any way you like. Most commonly the code wi
 
 # Important
 
-Be sure to put in your discord token in the server.js file, it is laballed at the bottom of the file.
+Be sure to put in your discord token in the server.js file, it is laballed at the bottom of the file. HOWEVER, make sure that you use env, essentially so that your token is a secret!
+
 
 Credits:
 
